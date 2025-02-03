@@ -1,2 +1,2 @@
 # Data-Engineer-Portfolio
-A dedicated space showcasing my data engineering projects. This portfolio demonstrates my ability to design, build, and optimize scalable data solutions using tools like SQL, Python, and cloud-based technologies.
+Hello, my name is Nicolas. This is a dedicated space to showcase my data engineering projects. Through this portfolio, I demonstrate my expertise in designing, building, and optimizing scalable data solutions using tools such as SQL, Python, and cloud-based technologies.
